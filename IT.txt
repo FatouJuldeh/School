@@ -1,0 +1,13 @@
+ipconfig 
+
+ping google.com
+
+ping adresse du domaine 
+
+tracert adresse ip
+
+curl ipinfo.io/adresse ip
+
+curl ipinfo.io/ espace adresse ip
+
+ 
